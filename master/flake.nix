@@ -11,6 +11,7 @@
   inputs.src-fasttext-master.ref   = "refs/heads/master";
   inputs.src-fasttext-master.owner = "bung87";
   inputs.src-fasttext-master.repo  = "fastText";
+  inputs.src-fasttext-master.dir   = "";
   inputs.src-fasttext-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
