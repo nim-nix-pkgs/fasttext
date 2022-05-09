@@ -7,30 +7,8 @@
   "license": "MIT",
   "web": "https://github.com/bung87/fastText",
   "refs": [
-    "refs/heads/master",
+    "fatal: unable to access 'https://github.com/bung87/fastText/': Could not resolve host: github.com",
     ""
   ],
-  "heads": [
-    {
-      "name": "fasttext",
-      "version": "0.2.0",
-      "author": "bung87",
-      "desc": "fastText porting in Nim",
-      "license": "MIT",
-      "skipDirs": [
-        "tests"
-      ],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }
